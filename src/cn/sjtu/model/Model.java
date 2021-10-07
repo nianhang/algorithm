@@ -2,10 +2,8 @@ package cn.sjtu.model;
 
 public class Model {
 
-
     //数组迭代
     void traverse(int[] arr){
-
         for(int i = 0;i<arr.length;i++){
             //迭代访问 arr[i]
         }
